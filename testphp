@@ -1,4 +1,0 @@
-<?php
-  phpinfo();
-  $str = "第二次修改";
-  echo $str;
